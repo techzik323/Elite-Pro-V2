@@ -12,7 +12,7 @@ global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
 global.botname = 'ELITE-PRO-V2' //ur bot name
-global.ownernumber = '2348109263390' //ur owner number
+global.ownernumber = '256751617788' //ur owner number
 global.ownername = 'ELITE-PRO-V2' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
@@ -33,8 +33,8 @@ global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
 global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
+global.autoswview = true //auto status/story view
+global.adminevent = true //show promote/demote message
 global.groupevent = false //show update messages in group chat
 //msg
 global.mess = {
