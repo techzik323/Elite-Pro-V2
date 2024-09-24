@@ -11,7 +11,7 @@ global.socialm = "GitHub: Elite-MD" //ur github or insta name
 global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
-global.botname = 'ELITE-PRO-V2' //ur bot name
+global.botname = 'ZIK-PRO-V2' //ur bot name
 global.ownernumber = '256751617788' //ur owner number
 global.ownername = 'ELITE-PRO-V2' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
@@ -22,7 +22,7 @@ global.botscript = 'https://github.com/Elite-MD/ELITE-PRO-V2' //script link
 global.packname = "Sticker By"
 global.author = "ELITE-PRO-V2"
 global.creator = "2348109263390@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = ','
 global.premium = ["2348109263390"] // Premium User
 global.hituet = 0
 
